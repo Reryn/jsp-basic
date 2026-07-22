@@ -34,7 +34,6 @@ for(int i = 1; i <= item_1_count; i++) {
 <%
 }
 %>
-<hr>
 <%
 int item_2_total = 0;
 for(int i = 1; i <= item_2_count; i++) {
